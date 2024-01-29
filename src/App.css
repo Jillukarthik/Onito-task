@@ -1,0 +1,47 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+
+.app{
+  padding: 0 !important;
+  margin: 0 !important;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  background-color: #B2FFE2 !important;
+  height: auto;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+
+.app__title{
+  text-align: center !important;
+  font-size: 23px !important;
+  padding-top: 51px !important;
+   padding-bottom: 51px !important;
+}
+
+.stepper{
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.stepperOne{
+  min-height: 43vh;
+  max-width: auto;
+  width: 60%;
+  background-color: #D1FFEB;
+   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+   border-radius: 5px;
+   padding: 10px;
+}
+
+.stepperTwo{
+  height: 43vh;
+  width: 60%;
+  background-color: #D1FFEB;
+   box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+   border-radius: 5px;
+   padding: 10px;
+}
